@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="SabakaStore.Domain/SabakaStore.Domain.csproj" />
+</Solution>
