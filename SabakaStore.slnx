@@ -2,4 +2,5 @@
   <Project Path="SabakaStore.Application/SabakaStore.Application.csproj" />
   <Project Path="SabakaStore.Domain/SabakaStore.Domain.csproj" />
   <Project Path="SabakaStore.Infrastructure/SabakaStore.Infrastructure.csproj" />
+  <Project Path="SabakaStore.API/SabakaStore.API.csproj" />
 </Solution>
